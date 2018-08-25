@@ -1,0 +1,6 @@
+
+/* center the div1 and div2 titles */
+h2, h3
+{
+    text-align: center;
+}
