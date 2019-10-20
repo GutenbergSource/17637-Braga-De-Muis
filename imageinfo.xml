@@ -1,34 +1,36 @@
 <images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
 <image path="images/book.png" filesize="218" filedate="2010-02-11 22:03:56" width="16px" height="16px">
 </image>
-<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+<image path="images/card.png" filesize="230" filedate="2018-12-01 15:17:53" width="16px" height="11px">
 </image>
-<image path="images/external.png" filesize="172" filedate="2010-02-11 22:03:56" width="12px" height="12px">
+<image path="images/external.png" filesize="159" filedate="2018-12-01 15:17:53" width="12px" height="12px">
 </image>
-<image path="images/frontcover.jpg" filesize="68185" filedate="2010-04-29 19:32:55" width="720px" height="464px">
+<image path="images/frontcover.jpg" filesize="66712" filedate="2018-12-01 15:17:53" width="720px" height="464px">
 </image>
-<image path="images/p01.jpg" filesize="36736" filedate="2005-11-25 21:08:05" width="720px" height="453px">
+<image path="images/p01.jpg" filesize="35734" filedate="2018-12-01 15:17:53" width="720px" height="453px">
 </image>
-<image path="images/p02.jpg" filesize="42172" filedate="2005-11-25 21:52:00" width="720px" height="452px">
+<image path="images/p02.jpg" filesize="41284" filedate="2018-12-01 15:17:53" width="720px" height="452px">
 </image>
-<image path="images/p03.jpg" filesize="37861" filedate="2005-11-25 21:55:26" width="720px" height="446px">
+<image path="images/p03.jpg" filesize="37059" filedate="2018-12-01 15:17:54" width="720px" height="446px">
 </image>
-<image path="images/p04.jpg" filesize="42361" filedate="2005-11-25 22:00:30" width="720px" height="449px">
+<image path="images/p04.jpg" filesize="41470" filedate="2018-12-01 15:17:54" width="720px" height="449px">
 </image>
-<image path="images/p05.jpg" filesize="42851" filedate="2005-11-25 22:04:25" width="720px" height="453px">
+<image path="images/p05.jpg" filesize="41867" filedate="2018-12-01 15:17:54" width="720px" height="453px">
 </image>
-<image path="images/p06.jpg" filesize="43110" filedate="2005-11-25 22:08:51" width="720px" height="452px">
+<image path="images/p06.jpg" filesize="42131" filedate="2018-12-01 15:17:54" width="720px" height="452px">
 </image>
-<image path="images/p07.jpg" filesize="38583" filedate="2005-11-25 22:30:03" width="720px" height="452px">
+<image path="images/p07.jpg" filesize="37590" filedate="2018-12-01 15:17:54" width="720px" height="452px">
 </image>
-<image path="images/p08.jpg" filesize="38306" filedate="2005-11-25 22:39:50" width="720px" height="449px">
+<image path="images/p08.jpg" filesize="37349" filedate="2018-12-01 15:17:54" width="720px" height="449px">
 </image>
-<image path="images/p09.jpg" filesize="47762" filedate="2005-11-25 22:45:25" width="720px" height="451px">
+<image path="images/p09.jpg" filesize="46929" filedate="2018-12-01 15:17:54" width="720px" height="451px">
 </image>
-<image path="images/p10.jpg" filesize="47644" filedate="2005-11-25 22:50:21" width="720px" height="451px">
+<image path="images/p10.jpg" filesize="46580" filedate="2018-12-01 15:17:54" width="720px" height="451px">
 </image>
-<image path="images/p11.jpg" filesize="51532" filedate="2005-11-25 22:54:20" width="720px" height="452px">
+<image path="images/p11.jpg" filesize="50445" filedate="2018-12-01 15:17:54" width="720px" height="452px">
 </image>
-<image path="images/p12.jpg" filesize="36559" filedate="2005-11-25 23:03:31" width="720px" height="449px">
+<image path="images/p12.jpg" filesize="35594" filedate="2018-12-01 15:17:54" width="720px" height="449px">
+</image>
+<image path="images/qrcode.png" filesize="268" filedate="2018-12-01 15:18:03" width="148px" height="148px">
 </image>
 </images>

@@ -7,7 +7,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>De Muis of de Gestoorde Nachtrust: een berijmde geschiedenis in twaalf tafereelen</title>
+<title nfc=3>De Muis of de Gestoorde Nachtrust: een berijmde geschiedenis in twaalf tafereelen</title>
 <author key="Braga" ref="https://viaf.org/viaf/22139423/">Braga Jr. [Psued. van Wilhelm Busch (1832&ndash;1908)]</author>
 <respStmt><resp lang=en>Illustrator</resp> <name key="Geldorp, Petrus Johannes Antonius Christiaan van" ref="https://viaf.org/viaf/63484357/">Petrus Johannes Antonius Christiaan van Geldorp (1872&ndash;1939)</name></respStmt>
 <respStmt><resp lang=en>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
@@ -417,7 +417,7 @@
 <l>&apos;k Heb waarlijk nu al kippenvel.&rdquo;
 <l>&bdquo;Kom&rdquo;, sprak nu de onversaagde man,
 <l>&bdquo;Nu zal ik toonen wat ik kan.&mdash;
-<l>&bdquo;Gij onruststoker in mijn huis,&rdquo;
+<l><corr sic="&bdquo;"></corr>Gij onruststoker in mijn huis,&rdquo;
 <l>Zoo sprak hij woedend tot de muis,
 <l>&bdquo;&apos;k Zal toonen dat ik winnaar ben,
 <l>En niets dan uw verdelging ken.
