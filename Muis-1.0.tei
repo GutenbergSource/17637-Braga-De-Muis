@@ -1,6 +1,11 @@
 <!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
- <!ENTITY florin CDATA "f" -- Dutch guilder sign -->
+    <!ENTITY apos   CDATA "&#x2019;"  --     124 -->
+    <!ENTITY bdquo  CDATA "&#x201E;"  --      41 -->
+    <!ENTITY ldquo  CDATA "&#x201C;"  --       1 -->
+    <!ENTITY mdash  CDATA "&#x2014;"  --      34 -->
+    <!ENTITY ndash  CDATA "&#x2013;"  --       3 -->
+    <!ENTITY rdquo  CDATA "&#x201D;"  --      40 -->
 
 ]>
 <TEI.2 lang=nl-1900>
@@ -8,6 +13,7 @@
 <fileDesc>
 <titleStmt>
 <title nfc=3>De Muis of de Gestoorde Nachtrust: een berijmde geschiedenis in twaalf tafereelen</title>
+<title type=short nfc=3>De Muis</title>
 <author key="Braga" ref="https://viaf.org/viaf/22139423/">Braga Jr. [Psued. van Wilhelm Busch (1832&ndash;1908)]</author>
 <respStmt><resp lang=en>Illustrator</resp> <name key="Geldorp, Petrus Johannes Antonius Christiaan van" ref="https://viaf.org/viaf/63484357/">Petrus Johannes Antonius Christiaan van Geldorp (1872&ndash;1939)</name></respStmt>
 <respStmt><resp lang=en>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
@@ -45,10 +51,14 @@
 </sourceDesc>
 </fileDesc>
 <encodingDesc lang=nl>
-<p>Dit bestand is in de oude spelling. Er is geen poging gedaan de tekst te moderniseren. Afgebroken woorden aan het einde van de regel zijn hersteld.
+    <p>Dit bestand is in de oude spelling. Er is geen poging gedaan de tekst te moderniseren. Afgebroken woorden aan het einde van de regel zijn hersteld.</p>
 
-<p>Hoewel in dit werk laag liggende aanhalingstekens openen worden gebruikt, zijn deze gecodeerd met &bdquo;.
-
+    <tagsDecl lang=xx>
+        <rendition selector=.small>font-size: small;</rendition>
+        <rendition selector=.large>font-size: large;</rendition>
+        <rendition selector=.center>text-align: center;</rendition>
+        <rendition selector="h2, h3">text-align: center;</rendition>
+    </tagsDecl>
 </encodingDesc>
 <profileDesc>
     <langUsage lang=nl>
@@ -56,6 +66,7 @@
         <language id=nl>Nederlands</language>
         <language id=de>Duits</language>
         <language id=en>Engels</language>
+        <language id=xx>Geen taalkundige inhoud</language>
     </langUsage>
     <textClass lang=en>
         <keywords>
@@ -72,7 +83,7 @@
 </list>
 </revisionDesc>
 </teiHeader>
-<text>
+<text rend="stylesheet(style/classic.css)">
 <front id=frontmatter>
 <div1 id=cover type=Cover>
 
@@ -84,14 +95,15 @@
 
 <div1 id=french type=FrenchTitle>
 
-<p rend="align(center)">De Muis
+<p rend="center large">De Muis
 
 
 <pb n=2>
 <div1 id=copy type=Copyright>
 
 
-<p rend="align(center)"><hi>Auteursrecht verzekerd volgens de Wet van 28 Juni 1881, (Stbl. No. 124).</hi>
+<p rend="center small"><hi>Auteursrecht verzekerd volgens de Wet van 28 Juni 1881, (Stbl. No. 124).</hi>
+
 
 <pb n=3>
 <titlePage>
@@ -122,7 +134,7 @@
 <pb n=4>
 <div1 id=imprint type=Imprint>
 
-<p rend="align(center)">Drukkerij Koch &amp; Knuttel&mdash;Gouda
+<p rend=center>Drukkerij Koch &amp; Knuttel&mdash;Gouda
 
 
 

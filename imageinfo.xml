@@ -1,36 +1,16 @@
 <images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
-<image path="images/book.png" filesize="218" filedate="2010-02-11 22:03:56" width="16px" height="16px">
-</image>
-<image path="images/card.png" filesize="230" filedate="2018-12-01 15:17:53" width="16px" height="11px">
-</image>
-<image path="images/external.png" filesize="159" filedate="2018-12-01 15:17:53" width="12px" height="12px">
-</image>
-<image path="images/frontcover.jpg" filesize="66712" filedate="2018-12-01 15:17:53" width="720px" height="464px">
-</image>
-<image path="images/p01.jpg" filesize="35734" filedate="2018-12-01 15:17:53" width="720px" height="453px">
-</image>
-<image path="images/p02.jpg" filesize="41284" filedate="2018-12-01 15:17:53" width="720px" height="452px">
-</image>
-<image path="images/p03.jpg" filesize="37059" filedate="2018-12-01 15:17:54" width="720px" height="446px">
-</image>
-<image path="images/p04.jpg" filesize="41470" filedate="2018-12-01 15:17:54" width="720px" height="449px">
-</image>
-<image path="images/p05.jpg" filesize="41867" filedate="2018-12-01 15:17:54" width="720px" height="453px">
-</image>
-<image path="images/p06.jpg" filesize="42131" filedate="2018-12-01 15:17:54" width="720px" height="452px">
-</image>
-<image path="images/p07.jpg" filesize="37590" filedate="2018-12-01 15:17:54" width="720px" height="452px">
-</image>
-<image path="images/p08.jpg" filesize="37349" filedate="2018-12-01 15:17:54" width="720px" height="449px">
-</image>
-<image path="images/p09.jpg" filesize="46929" filedate="2018-12-01 15:17:54" width="720px" height="451px">
-</image>
-<image path="images/p10.jpg" filesize="46580" filedate="2018-12-01 15:17:54" width="720px" height="451px">
-</image>
-<image path="images/p11.jpg" filesize="50445" filedate="2018-12-01 15:17:54" width="720px" height="452px">
-</image>
-<image path="images/p12.jpg" filesize="35594" filedate="2018-12-01 15:17:54" width="720px" height="449px">
-</image>
-<image path="images/qrcode.png" filesize="268" filedate="2018-12-01 15:18:03" width="148px" height="148px">
-</image>
+<image path="images/frontcover.jpg" filesize="360644" filedate="2023-04-09 09:53:24" width="1440px" height="928px"/>
+<image path="images/p01.jpg" filesize="134096" filedate="2023-04-09 09:53:24" width="1440px" height="906px"/>
+<image path="images/p02.jpg" filesize="148559" filedate="2023-04-09 09:53:24" width="1440px" height="904px"/>
+<image path="images/p03.jpg" filesize="139406" filedate="2023-04-09 09:53:24" width="1440px" height="893px"/>
+<image path="images/p04.jpg" filesize="147204" filedate="2023-04-09 09:53:24" width="1440px" height="898px"/>
+<image path="images/p05.jpg" filesize="154954" filedate="2023-04-09 09:53:24" width="1440px" height="906px"/>
+<image path="images/p06.jpg" filesize="152960" filedate="2023-04-09 09:53:24" width="1440px" height="903px"/>
+<image path="images/p07.jpg" filesize="145346" filedate="2023-04-09 09:53:24" width="1440px" height="904px"/>
+<image path="images/p08.jpg" filesize="141745" filedate="2023-04-09 09:53:24" width="1440px" height="899px"/>
+<image path="images/p09.jpg" filesize="171772" filedate="2023-04-09 09:53:24" width="1440px" height="901px"/>
+<image path="images/p10.jpg" filesize="159909" filedate="2023-04-09 09:53:24" width="1440px" height="903px"/>
+<image path="images/p11.jpg" filesize="178703" filedate="2023-04-09 09:53:24" width="1440px" height="904px"/>
+<image path="images/p12.jpg" filesize="126045" filedate="2023-04-09 09:53:24" width="1440px" height="899px"/>
+<image path="images/qr17637.png" filesize="326" filedate="2023-04-09 09:53:42" width="296px" height="296px"/>
 </images>
